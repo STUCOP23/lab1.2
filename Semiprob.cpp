@@ -1,6 +1,6 @@
 // This program demonstrates a compile error.
 
-// Aexandra Costas
+// Alexandra Costas
 
 #include <iostream> // 
 using namespace std;
